@@ -1,0 +1,23 @@
+@@ -0,0 +1,21 @@
+<?xml version="1.0"?> 
+<Products>   
+  <Product>     
+  <Name>Soft Duvet Set</Name>     
+  <Description>Seriously soft, gets softer with each wash. Made of 100% cotton. Signature 2" flange.</Description>     
+  <Price>$139.00</Price>     
+  <URL>http://thebeddingstore.com/product/392487-Soft-Duvet-Set</URL>   
+  </Product>   
+  <Product>     
+  <Name>Stripe Sheet Set</Name>     
+  <Description>The single pick construction and washing process produces a fabric that gets softer with each wash. Features embroidered stripes</Description>     
+  <Price>$95.00</Price>     
+  <URL>http://thebeddingstore.com/product/987234-Stripe-Sheet-Set</URL>   
+  </Product>   
+  <Product>     
+    <Name>Linen Decorative Pillow</Name>     
+    <Description>100% linen square pillow. Polyester fill insert included.</Description>     
+    <Price>$35.00</Price>     
+  <URL>http://thebeddingstore.com/product/725284-Linen-Decorative-Pillow</URL>   
+  </Product> 
+</Products>
+\ No newline at end of file
